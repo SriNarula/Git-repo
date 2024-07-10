@@ -1,3 +1,3 @@
 # Git-repo
 
-I am practicing git 
+I am practicing git .
